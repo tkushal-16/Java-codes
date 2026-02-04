@@ -1,4 +1,4 @@
-package com.spring.java.basic;
+package basic;
 
 public class ReverseNum {
 
