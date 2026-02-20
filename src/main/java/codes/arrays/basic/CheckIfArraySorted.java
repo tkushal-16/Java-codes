@@ -1,4 +1,4 @@
-package basic.arrays;
+package codes.arrays.basic;
 
 /**
  * Example 1:

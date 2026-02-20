@@ -1,4 +1,4 @@
-package basic;
+package codes.methods;
 
 public class CountNums {
 

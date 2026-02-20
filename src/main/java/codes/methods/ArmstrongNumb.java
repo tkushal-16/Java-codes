@@ -1,4 +1,4 @@
-package basic.methods;
+package codes.methods;
 
 /*
 An Armstrong number (also known as a narcissistic number, pluperfect number, or plenary number) is a

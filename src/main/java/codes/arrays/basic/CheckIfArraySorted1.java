@@ -1,7 +1,8 @@
-package basic.arrays;
+package codes.arrays.basic;
 
 import java.util.ArrayList;
 
+//This is the OPTIMAL APPROACH OF THIS KIND OF PROGRAM
 public class CheckIfArraySorted1 {
 
     public static void main(String[] args) {

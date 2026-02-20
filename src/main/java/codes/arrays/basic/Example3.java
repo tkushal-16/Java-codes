@@ -3,7 +3,7 @@ Merging Arrays
 
 To merge two arrays, create a new array large enough to hold all elements and copy them over:
  */
-package basic.arrays;
+package codes.arrays.basic;
 
 import java.util.Arrays;
 

@@ -9,7 +9,7 @@ Inserting an element into an array requires shifting existing elements to make r
     Update the array size if necessary.
 
  */
-package basic.arrays;
+package codes.arrays.basic;
 
 import java.util.Arrays;
 
