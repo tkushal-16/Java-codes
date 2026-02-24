@@ -1,6 +1,6 @@
 package codes.arrays.basic;
 
-//This is the OPTIMAL APPROACH OF THIS KIND OF PROGRAM
+//This is OPTIMAL APPROACH
 public class SecondSmallest1 {
 
     public static void main(String[] args) {

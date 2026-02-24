@@ -1,5 +1,6 @@
 package codes.arrays.basic;
-//This is the OPTIMAL APPROACH OF THIS KIND OF PROGRAM
+
+//This is OPTIMAL APPROACH
 public class LeftRotateArray1 {
     static class Solution {
         public void rotateArrayByOne(int[] nums) {

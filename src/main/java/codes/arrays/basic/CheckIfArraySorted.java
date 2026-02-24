@@ -13,6 +13,7 @@ package codes.arrays.basic;
  * Here element 5 is not smaller than or equal to its future elements.
  */
 
+//This is BRUTE FORCE APPROACH
 public class CheckIfArraySorted {
 
     public static void main(String[] args) {

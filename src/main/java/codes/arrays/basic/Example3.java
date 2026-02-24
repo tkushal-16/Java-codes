@@ -1,10 +1,9 @@
+package codes.arrays.basic;
 /*
 Merging Arrays
 
 To merge two arrays, create a new array large enough to hold all elements and copy them over:
  */
-package codes.arrays.basic;
-
 import java.util.Arrays;
 
 public class Example3 {

@@ -23,8 +23,10 @@ Second Smallest : -1
 Second Largest : -1
 Explanation:
   Since there is only one element in the array, it is both the largest and smallest element.
-Therefore, there is no second smallest or second largest element present.
+Therefore, there is no second smallest or second-largest element present.
  */
+
+//This is BURTE FORCE APPROACH
 public class SecondSmallest {
 
     public static void main(String[] args) {

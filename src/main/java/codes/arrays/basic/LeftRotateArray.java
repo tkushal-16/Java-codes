@@ -15,6 +15,8 @@ Explanation:
  Initially, nums = [1, 2, 3, 4, 5]
 Rotating once to the left results in nums = [2, 3, 4, 5, 1].
  */
+
+//This is BRUTE FORCE APPROACH
 public class LeftRotateArray {
 
     // Class containing the solve method

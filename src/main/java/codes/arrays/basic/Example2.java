@@ -1,3 +1,4 @@
+package codes.arrays.basic;
 /*
 ## Deleting Elements from an Array
 
@@ -8,8 +9,6 @@ Deleting an element involves removing it and shifting the remaining elements to 
     Update the array size if necessary.
 
  */
-package codes.arrays.basic;
-
 import java.util.Arrays;
 
 public class Example2 {
