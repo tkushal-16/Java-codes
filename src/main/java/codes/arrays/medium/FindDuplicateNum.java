@@ -23,6 +23,8 @@ import java.util.Arrays;
  *  3
  * Explanation:
  *  Since 3 is the duplicate number, the answer will be 3.
+ *
+ *  Link : https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers
  */
 
 //This is BRUTE FORCE APPROACH

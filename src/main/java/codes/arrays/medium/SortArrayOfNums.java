@@ -12,6 +12,8 @@ package codes.arrays.medium;
  * Input: nums = [0, 0, 1, 1, 1]
  * Output: [0, 0, 1, 1, 1]
  * Explanation: The nums array in sorted order has 2 zeroes, 3 ones and zero twos.
+ *
+ * Link : https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s
  */
 
 //This is BRUTE FORCE APPROACH
